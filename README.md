@@ -1,8 +1,12 @@
 # Short stories
 
-Collection of short stories without a specific focus and/or timing. Most of them started as a dream during my last big vacation with the family in 2020 and when I woke up, I justed posted them to Twitter, which was real back then (more on the topic @ [characterlimit.net](https://www.characterlimit.net/ "Character Limit: How Elon Musk Destroyed Twitter")).
+Collection of short stories without a specific focus and/or timing. Most of them started as a dream during my last big vacation with the family in 2020 and when I woke up, I justed posted them to Twitter, which was _IMO_ **much better platform** back then (more on the topic @ [characterlimit.net](https://www.characterlimit.net/ "Character Limit: How Elon Musk Destroyed Twitter")).
 
-A few years later, I decided to write them down in English and put somewhere I can find them later. Unfortunately, I was only able to find a single story (which I have pinned to my account), because everything else from that time is lost somewhere in [x.com](https://x.com) datacenters or removed because I never paid for using the _[verified badge](https://help.x.com/en/managing-your-account/about-x-verified-accounts)_. Maybe if I'll have a dream in the future, I'll put it right here and make backups, instead of trusting a service which might be sold anytime.
+A few years later, I decided to write them down in English and put somewhere I can find them later.
+
+This was at least the plan, to put all the stories here.
+
+Unfortunately, I was only able to find only a single story (pinned to my account), because everything else from that time is lost somewhere in [x.com](https://x.com) datacenters or silently deleted because I never paid for using the _[verified badge](https://help.x.com/en/managing-your-account/about-x-verified-accounts)_. Maybe if I'll have a dream in the future, I'll put it right here and make backups, instead of trusting a service which might be sold anytime.
 
 ## The Stories list
 
