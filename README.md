@@ -21,3 +21,5 @@ A surreal narrative about organizing a party that spirals into chaos with friend
 ---
 
 Feel free to comment or add your own touch, but do not use, copy or distribute the content without explicit permission of the author.
+
+All images are created by the generative AI, because I can't draw anything else but stick figures and even they suck.
