@@ -6,7 +6,7 @@ When the guests arrived, the guest list looked like a collision between a Savile
 
 Once it became clear that the plumbing was a theoretical concept rather than a functioning reality, a friend suggested we move the festivities to his shop nearby. Everyone agreed with the kind of unearned enthusiasm usually reserved for tax cuts.
 
-By this point, the gentlemen were several lagers deep, and the ladies were sipping summer cocktails that looked like liquid neon. Conversation had deteriorated into the kind of logic-free gibberish usually found in Lewis Carroll novels or Congressional hearings. But why let a minor thing like a coherent sentence get in the way of a good time?
+By this point, the gentlemen were several lagers deep, and the ladies were sipping summer cocktails that looked like liquid neon. Conversation had deteriorated into the kind of logic-free gibberish usually found in [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) novels or Congressional hearings. But why let a minor thing like a coherent sentence get in the way of a good time?
 
 We reached the shop only to find it was roughly five times too small for the mob. My friend then revealed the existence of a basement. Now, usually, when a man invites a crowd into his basement, you call the authorities. But, in the spirit of the evening, I ignored the impending sense of doom and followed the herd.
 
@@ -24,11 +24,11 @@ A dapper cat in a top hat followed her, looking down his nose at me like a Frenc
 
 I had the distinct feeling I was presiding over a catastrophe of multi-planetary proportions. The party was in full swing. The "supplies" were being craned into the basement. I finally descended with my wife and adult sons. My wife was carrying a 451-story cake—a towering monument to gluten and ambition.
 
-Downstairs, the cat was playing a metal set on an epic pipe organ that would have made Rick Wakeman weep. My youngest son was on drums, a fellow named Pavel Jeníkovský was on bass, and James Hetfield had somehow been recruited on guitar. The tiny fairy was singing, and she had the voice of Whitney Houston in her prime. It was magnificent. It was loud. It was probably illegal in forty-eight states.
+Downstairs, the cat was playing a metal set on an epic pipe organ that would have made Rick Wakeman weep. My youngest son was on drums, a fellow named [Pavel Jeníkovský](https://www.linkedin.com/in/pavel-jenikovsky) was on bass, and [James Alan](https://en.wikipedia.org/wiki/James_Hetfield) had somehow been recruited on guitar. The tiny fairy was singing, and she had the voice of [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) in her prime. It was magnificent. It was loud. It was probably illegal in forty-eight states.
 
-The feline dance troupe performed a series of maneuvers that were as impressive as they were biologically confusing. A reporter from Variety was at the bar, shouting superlatives into her phone. We had a brief, testy exchange about GDPR and the fact that she wasn't on the guest list. She took offense and left in a huff.
+The feline dance troupe performed a series of maneuvers that were as impressive as they were biologically confusing. A reporter from [Variety](https://variety.com) was at the bar, shouting superlatives into her phone. We had a brief, testy exchange about [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) and the fact that she wasn't on the guest list. She took offense and left in a huff.
 
-Finally, the supplier handed me the bill. The figures on it were as bold and terrifying as the dancers' costumes. But, in for a penny, in for a trillion. I pulled out my phone and used the "Split Bill" feature on my Revolut app for the first time in my life.
+Finally, the supplier handed me the bill. The figures on it were as bold and terrifying as the dancers' costumes. But, in for a penny, in for a trillion. I pulled out my phone and used the "[Split Bill](https://help.revolut.com/en-IE/help/adding-money/with-money-from-friends-or-relatives/splitting-bill)" feature on my [Revolut app]((https://revolut.com/referral/?referral-code=ji7xvi!JAN1-26-AR-H1&geo-redirect)) for the first time in my life.
 
 A gazillion devices—phones, watches, and things that looked like glowing pebbles—chimed simultaneously. Everyone, including the aliens, hit "confirm." The sheer scale of the transaction caused interplanetary trade to collapse instantly. Markets crashed. Currencies vanished. But nobody cared.
 
