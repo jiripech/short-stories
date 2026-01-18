@@ -6,7 +6,7 @@ A few years later, I decided to write them down in English and put somewhere I c
 
 This was at least the plan, to put all the stories here.
 
-Unfortunately, I was only able to find only a single story (pinned to my account), because everything else from that time is lost somewhere in [x.com](https://x.com) datacenters or silently deleted because I never paid for using the _[verified badge](https://help.x.com/en/managing-your-account/about-x-verified-accounts)_. Maybe if I'll have a dream in the future, I'll put it right here and make backups, instead of trusting a service which might be sold anytime.
+Unfortunately, I was only able to find only a single story (pinned to my account), because everything else from that time is lost somewhere in [x.com](https://x.com) datacenters or silently deleted because I never paid for using the _[verified badge](https://help.x.com/en/managing-your-account/about-x-verified-accounts)_. Fortunately using Grok, I was able to retrieve at least some of them, so here we go:
 
 ## The Stories list
 
@@ -17,6 +17,10 @@ A poignant tale of a driver with a clouded memory who serves a brilliant doctor 
 ### [The Interplanetary Bar Tab](Interplanetary%20Bar%20Tab/index.md)
 
 A surreal narrative about organizing a party that spirals into chaos with friends, kids, aliens, talking animals, extravagant performances, and absurd escalations leading to an interstellar economic collapse and finally an open-air festival.
+
+### [The Strudel Manifesto](The%20Strudel%20Manifesto/index.md)
+
+A whimsical dream sequence starting with a trip to Brazil to teach strudel baking, evolving into political satire involving communists, revolutions, family life on a distant planet, and themes of productivity and legacy.
 
 ---
 
